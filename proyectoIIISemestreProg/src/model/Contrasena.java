@@ -1,7 +1,4 @@
 package model;
-
-
-
 public class Contrasena extends CVC {
 	private int contrasena;
 
