@@ -1,7 +1,5 @@
 package model;
 
-import model.*;
-
 public class Movimiento {
 	private int retiro;
 	private int deposito;
