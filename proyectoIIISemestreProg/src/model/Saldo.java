@@ -1,7 +1,5 @@
 package model;
 
-
-
 public class Saldo {
 	private int saldo;
 
